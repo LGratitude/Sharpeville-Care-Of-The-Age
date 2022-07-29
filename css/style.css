@@ -224,7 +224,7 @@ section {
 
 #volunteer {
   background-image: linear-gradient(90deg, rgba(2, 0, 36, 0.7), rgba(2, 0, 36, 0.7), rgba(2, 0, 36, 0.9)), url("../images/volunteer.jpg");
-  min-height: 65vh;
+  min-height: 45vh;
 }
 
 #joinUs {
@@ -233,6 +233,6 @@ section {
 }
 
 #donate {
-  background-image: linear-gradient(90deg, rgba(2, 0, 36, 0.04945728291316531) 0%, rgba(2, 0, 36, 0.3603816526610645) 35%, rgba(2, 0, 36, 0.16150210084033612) 100%), url("../images/donation.jpg");
+  background-image: linear-gradient(0deg, rgba(166, 34, 34, 0.7), rgba(59, 12, 12, 0.7), rgba(154, 39, 39, 0.9)), url("../images/donation.jpg");
   min-height: 85vh;
 }
